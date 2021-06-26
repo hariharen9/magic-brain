@@ -1,7 +1,7 @@
-# MAGIC BRAIN [CLICK HERE](https://magic-brain-frontend.herokuapp.com "Magic Brain by HARIHAREN")
+# MAGIC BRAIN 
 # Built with REACT & NODEJS
 
-## This WebApp will find faces in images with the help of MACHINE LEARNING using the Clarifai API 
+## This WebApp will find faces in images with the help of MACHINE LEARNING using the Clarifai API  [CLICK HERE](https://magic-brain-frontend.herokuapp.com "Magic Brain by HARIHAREN")
 
 ### It also uses a Custom BACKEND PostgreSQL Server to handle GET & POST requests
 
