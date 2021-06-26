@@ -1,4 +1,7 @@
-# magic-brain-complete
+# MAGIC BRAIN
+
+## This WeBApp will find faces in images with the help of MACHINE LEARNING using the Clarifai API 
+
 
 
 1. Clone this repo
