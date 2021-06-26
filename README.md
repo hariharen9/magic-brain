@@ -1,7 +1,7 @@
 # MAGIC BRAIN
 # Built with REACT & NODEJS
 
-## This WeBApp will find faces in images with the help of MACHINE LEARNING using the Clarifai API 
+## This WebApp will find faces in images with the help of MACHINE LEARNING using the Clarifai API 
 
 ### It also uses a Custom BACKEND PostgreSQL Server to handle GET & POST requests
 
