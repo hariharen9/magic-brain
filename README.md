@@ -3,9 +3,9 @@
 
 ## This WeBApp will find faces in images with the help of MACHINE LEARNING using the Clarifai API 
 
-## It also uses a Custom BACKEND PostgreSQL Server to handle GET & POST requests
+### It also uses a Custom BACKEND PostgreSQL Server to handle GET & POST requests
 
-## It has CUSTOM User AUTHentication and Register & Login Screens
+### It has CUSTOM User AUTHentication and Register & Login Screens
 
 ### It can handle and keep data and track ranks for individual users based on their searches
 
