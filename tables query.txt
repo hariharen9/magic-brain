@@ -1,0 +1,28 @@
+CREATE TABLE users
+(
+    id serial PRIMARY KEY,
+    name character varying(100),
+    email character varying NOT NULL,
+    entries bigint default 0,
+	joined timestamp NOT NULL
+);
+
+
+
+
+
+
+
+
+
+CREATE TABLE login
+(
+    id serial PRIMARY KEY,
+    hash varchar(100) NOT NULL,
+	email text UNIQUE NOT NULL
+);
+
+
+
+
+
